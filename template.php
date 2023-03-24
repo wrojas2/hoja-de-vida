@@ -17,25 +17,8 @@
         <div class="card-header shadow rounded bg-dark text-white mb-5">
           <h5 class="card-title">Perfil Profesional</h5>
         </div>
-        <div class="row">
-          <div class="col-lg-4 col-sm-12">
-            <?php include 'components/index/list-group.php'; ?>
-          </div>
-          <div class="col-lg-4 col-sm-12 my-lg-0 my-sm-5">
-            <div class="text-center">
-              <img src="img/foto_wrojas.png" alt="" class="img-fluid rounded shadow" width="65%">
-            </div>
-          </div>
-          <div class="col-lg-4 col-sm-12">
-            <img src="https://thumbs.dreamstime.com/z/experiencia-que-aprende-concepto-del-icono-del-dibujo-de-la-exposici%C3%B3n-78547645.jpg" alt="" class="img-fluid rounded shadow mb-5" width="80%" >
-          </div>
-        </div>
-        <div class="row">
-          <div class="col">
-            <?php include 'components/index/card.php'; ?>
-          </div>
-        </div>
-      </div>
+
+    </div>
       <div class="card-footer text-muted">
         <i class="fa-sharp fa-regular fa-registered fa-sm" style="color: #0a3da4;"></i> Todos los Derechos Reservados
       </div>
@@ -43,5 +26,4 @@
   </div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
 </body>
-
 </html>

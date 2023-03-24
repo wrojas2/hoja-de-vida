@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm mb-3 sticky-top">
     <div class="container">
         <a class="navbar-brand" href="index.php">
             <i class="fa-solid fa-house"></i>
@@ -9,7 +9,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="study.php">
                         <i class="fa-solid fa-graduation-cap"></i> ESTUDIOS
                     </a>
                 </li>
