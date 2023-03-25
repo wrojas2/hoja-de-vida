@@ -18,7 +18,7 @@
     </div>
   </div>
   <div class="row g-0">
-    <div class="card-footer text-muted rounded col-sm-12">
+    <div class="card-footer text-muted rounded col-sm-4">
       Carrera 13 # 10-50 Piedecuesta - Santander
       <a href="https://www.facebook.com/colegiobalbinogarciasedec" target="_blank"><i class="fa-brands fa-facebook fa-2xl ms-2"></i></a>
       <a href="mailto:cbg@colbalbino.edu.co"><i class="fa-solid fa-envelope fa-2xl ms-2 me-2"></i></a>
