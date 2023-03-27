@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm mb-3 sticky-top">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm mb-3 sticky-top">
     <div class="container">
         <a class="navbar-brand" href="index.php">
             <i class="fa-solid fa-house"></i>
@@ -15,9 +15,9 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="job.php">
-                        <i class="fa-solid fa-graduation-cap"></i> EXPERIENCIA LABORAL
+                        <i class="fa-solid fa-briefcase"></i> EXPERIENCIA LABORAL
                     </a>
-                </li>                
+                </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">
                         <i class="fa-solid fa-hand-sparkles"></i>HABILIDADES

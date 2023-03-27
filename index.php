@@ -14,7 +14,7 @@
   <div class="container">
     <div class="card text-center">
       <div class="card-body">
-        <div class="card-header shadow rounded bg-dark text-white mb-5">
+        <div class="card-header shadow rounded bg-primary text-white mb-5">
           <h5 class="card-title">Perfil Profesional</h5>
         </div>
         <div class="row">
@@ -23,11 +23,11 @@
           </div>
           <div class="col-lg-4 col-sm-12 my-lg-0 my-sm-5">
             <div class="text-center">
-              <img src="img/foto_wrojas.png" alt="" class="img-fluid rounded shadow" width="65%">
+              <?php include 'components/index/slide.php'; ?>
             </div>
           </div>
           <div class="col-lg-4 col-sm-12">
-            <img src="https://thumbs.dreamstime.com/z/experiencia-que-aprende-concepto-del-icono-del-dibujo-de-la-exposici%C3%B3n-78547645.jpg" alt="" class="img-fluid rounded shadow mb-5" width="80%" >
+            <img src="https://thumbs.dreamstime.com/z/experiencia-que-aprende-concepto-del-icono-del-dibujo-de-la-exposici%C3%B3n-78547645.jpg" alt="" class="img-fluid rounded shadow mb-5" width="80%">
           </div>
         </div>
         <div class="row">

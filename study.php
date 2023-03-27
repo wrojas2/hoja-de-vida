@@ -14,8 +14,8 @@
     <div class="container mb-3">
         <div class="card text-center">
             <div class="card-body">
-                <div class="card-header shadow rounded bg-dark text-white mt-1 mb-1">
-                    <h5 class="card-title"><i class="fa-solid fa-graduation-cap"></i>ESTUDIOS</h5>
+                <div class="card-header shadow rounded bg-primary text-white mt-1 mb-1">
+                    <h5 class="card-title"><i class="fa-solid fa-graduation-cap"></i> ESTUDIOS</h5>
                 </div>
                 <div class="row">
                     <div class="col">

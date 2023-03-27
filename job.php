@@ -4,9 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hoja de Vida | Perfil</title>
+    <title>Hoja de vida | Experiencia Laboral</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-    <script src="https://kit.fontawesome.com/650c9965ac.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/80573cd677.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -14,15 +14,15 @@
     <div class="container">
         <div class="card text-center">
             <div class="card-body">
-                <div class="card-header shadow rounded bg-dark text-white mb-5">
-                    <h5 class="card-title">EXPERIENCIA LABORAL</h5>
+                <div class="card-header shadow rounded bg-primary text-white mb-5">
+                    <h5 class="card-title"> EXPERIENCIA LABORAL</h5>
                 </div>
                 <div>
                     <?php include 'components/job/acordion.php'; ?>
                 </div>
             </div>
             <div class="card-footer text-muted">
-                <i class="fa-sharp fa-regular fa-registered fa-sm" style="color: #0a3da4;"></i> Todos los Derechos Reservados
+            <i class="fa-sharp fa-regular fa-registered fa-sm" style="color: #0a3da4;"></i> Todos los Derechos Reservados
             </div>
         </div>
     </div>
