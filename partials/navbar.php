@@ -19,12 +19,12 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="skills.php">
                         <i class="fa-solid fa-hand-sparkles"></i>HABILIDADES
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="courses.php">
                         <i class="fa-solid fa-file-contract"></i> CURSOS REALIZADOS
                     </a>
                 </li>
